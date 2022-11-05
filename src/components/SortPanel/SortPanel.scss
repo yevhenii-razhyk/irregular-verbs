@@ -1,0 +1,11 @@
+.sort-panel {
+
+    & th {
+        cursor: pointer;
+        background-color: aqua;
+
+        &:hover {
+            background-color: aquamarine;
+        }
+    }
+}

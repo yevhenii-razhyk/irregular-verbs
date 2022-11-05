@@ -1,0 +1,6 @@
+.verb-list {
+
+    & tr:nth-child(even) {
+        background-color: aliceblue;
+    }
+}

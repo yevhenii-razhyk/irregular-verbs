@@ -1,0 +1,11 @@
+.search {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    width: 30%;
+
+    &::placeholder {
+        opacity: 1;
+        color: gray;
+    }
+}
