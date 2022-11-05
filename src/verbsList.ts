@@ -158,7 +158,7 @@ export const verbsList: IVerb[] | any = [
     {id: 142, v1: "outshine", v2: "outshined / outshone", v3: "outshined / outshone", translate: "затьмарювати"},
     {id: 143, v1: "outshoot", v2: "outshot", v3: "outshot", translate: "стріляти далі"},
     {id: 144, v1: "outsing", v2: "outsang", v3: "outsung", translate: "співати краще"},
-    {id: 145, v1: "outsit", v2: "outsat", v3: "miswoutsatritten", translate: "outsat"},
+    {id: 145, v1: "outsit", v2: "outsat", v3: "outsat", translate: "засиджуватися"},
     {id: 146, v1: "outsleep", v2: "outslept", v3: "outslept", translate: "прогавити"},
     {id: 147, v1: "outsmell", v2: "outsmelled / outsmelt", v3: "outsmelled / outsmelt", translate: "винюхати"},
     {id: 148, v1: "outspeak", v2: "outspoke", v3: "outspoken", translate: "висловлюватися"},
