@@ -194,4 +194,30 @@ export const verbsList: IVerb[] | any = [
     {id: 178, v1: "overwind", v2: "overwound", v3: "overwound", translate: "перекручувати"},
     {id: 179, v1: "overwrite", v2: "overwrote", v3: "overwritten", translate: "переписувати"},
 
+    {id: 180, v1: "partake", v2: "partook", v3: "partaken", translate: "брати участь"},
+    {id: 181, v1: "pay", v2: "paid", v3: "paid", translate: "платити"},
+    {id: 182, v1: "plead", v2: "pleaded / pled", v3: "pleaded / pled", translate: "благати"},
+    {id: 183, v1: "preset", v2: "preset", v3: "preset", translate: "заздалегідь встановлений"},
+    {id: 184, v1: "proofread", v2: "proofread", v3: "proofread", translate: "коректувати"},
+    {id: 185, v1: "prove", v2: "proved", v3: "proven / proved", translate: "доводити"},
+    {id: 186, v1: "put", v2: "put", v3: "put", translate: "класти"},
+
+    {id: 187, v1: "quick-freeze", v2: "quick-froze", v3: "quick-frozen", translate: "швидко заморожувати"},
+    {id: 188, v1: "quit", v2: "quit", v3: "quit", translate: "виходити"},
+
+    {id: 189, v1: "read", v2: "read", v3: "read", translate: "читати"},
+    {id: 190, v1: "relay", v2: "relaid", v3: "relaid", translate: "змінювати"},
+    {id: 191, v1: "remake", v2: "remade", v3: "remade", translate: "перероблювати"},
+    {id: 192, v1: "repay", v2: "repaid", v3: "repaid", translate: "віддячувати"},
+    {id: 193, v1: "resell", v2: "resold", v3: "resold", translate: "перепродавати"},
+    {id: 194, v1: "reset", v2: "reset", v3: "reset", translate: "перезавантажувати"},
+    {id: 195, v1: "retell", v2: "retold", v3: "retold", translate: "переказувати"},
+    {id: 196, v1: "rewind", v2: "rewound", v3: "rewound", translate: "перемотувати"},
+    {id: 197, v1: "rid", v2: "rid", v3: "rid", translate: "позбавлятися"},
+    {id: 198, v1: "ride", v2: "rode", v3: "ridden", translate: "їхати"},
+    {id: 199, v1: "ring", v2: "rang", v3: "rung", translate: "дзвонити"},
+    {id: 200, v1: "rise", v2: "rose", v3: "risen", translate: "підніматись"},
+    {id: 201, v1: "roughcast", v2: "roughcast", v3: "roughcast", translate: "намічати"},
+    {id: 202, v1: "run", v2: "ran", v3: "run", translate: "бігти"},
+
 ]
