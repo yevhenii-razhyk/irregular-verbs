@@ -282,4 +282,18 @@ export const verbsList: IVerb[] | any = [
     {id: 262, v1: "swim", v2: "swam", v3: "swum", translate: "плисти"},
     {id: 263, v1: "swing", v2: "swung", v3: "swung", translate: "гойдати"},
 
+    {id: 264, v1: "take", v2: "took", v3: "taken", translate: "брати"},
+    {id: 265, v1: "teach", v2: "taught", v3: "taught", translate: "вчити"},
+    {id: 266, v1: "tear", v2: "tore", v3: "torn", translate: "рвати"},
+    {id: 267, v1: "telecast", v2: "telecast", v3: "telecast", translate: "передавати по телебаченню"},
+    {id: 268, v1: "tell", v2: "told", v3: "told", translate: "розповідати"},
+    {id: 269, v1: "test-drive", v2: "test-drove", v3: "test-driven", translate: "випробовувати"},
+    {id: 270, v1: "test-fly", v2: "test-flew", v3: "test-flown", translate: "проводити випробування"},
+    {id: 271, v1: "think", v2: "thought", v3: "thought", translate: "думати"},
+    {id: 272, v1: "throw", v2: "threw", v3: "thrown", translate: "кидати"},
+    {id: 273, v1: "thrust", v2: "thrust", v3: "thrust", translate: "штовхати"},
+    {id: 274, v1: "tread", v2: "trod", v3: "trodden", translate: "вступати"},
+    {id: 275, v1: "typeset", v2: "typeset", v3: "typeset", translate: "набирати (текст)"},
+    {id: 276, v1: "typewrite", v2: "typewrote", v3: "typewritten", translate: "набирати на машинці"},
+
 ]
