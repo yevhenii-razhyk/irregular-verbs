@@ -322,4 +322,18 @@ export const verbsList: IVerb[] | any = [
     {id: 300, v1: "uphold", v2: "upheld", v3: "upheld", translate: "підтримувати"},
     {id: 301, v1: "upset", v2: "upset", v3: "upset", translate: "засмучувати"},
 
+    {id: 302, v1: "wake", v2: "woke", v3: "woken", translate: "прокидатися"},
+    {id: 303, v1: "waylay", v2: "waylaid", v3: "waylaid", translate: "підстерегти"},
+    {id: 304, v1: "wear", v2: "wore", v3: "worn", translate: "одягати"},
+    {id: 305, v1: "weave", v2: "wove", v3: "woven", translate: "ткати"},
+    {id: 306, v1: "wed", v2: "wed", v3: "wed", translate: "одружуватися"},
+    {id: 307, v1: "weep", v2: "wept", v3: "wept", translate: "плакати"},
+    {id: 308, v1: "wet", v2: "wet", v3: "wet", translate: "вимочувати"},
+    {id: 309, v1: "win", v2: "won", v3: "won", translate: "вигравати"},
+    {id: 310, v1: "wind", v2: "wound", v3: "wound", translate: "вертіти"},
+    {id: 311, v1: "withdraw", v2: "withdrew", v3: "withdrawn", translate: "виводити"},
+    {id: 312, v1: "withhold", v2: "withheld", v3: "withheld", translate: "утримувати"},
+    {id: 313, v1: "withstand", v2: "withstood", v3: "withstood", translate: "протистояти"},
+    {id: 314, v1: "wring", v2: "wrung", v3: "wrung", translate: "вичавлювати"},
+    {id: 315, v1: "write", v2: "wrote", v3: "written", translate: "писати"},
 ]
