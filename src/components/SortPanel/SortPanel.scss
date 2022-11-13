@@ -8,4 +8,20 @@
             background-color: aquamarine;
         }
     }
+
+    & div {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__icon {
+        width: 10px;
+        rotate: 90deg;
+        display: none;
+
+        &.active {
+            display: inline;
+        }
+    }
 }

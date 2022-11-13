@@ -1,3 +1,12 @@
+.App {
+    &__search {
+        display: grid;
+        grid-template-columns: auto 200px;
+        grid-column-gap: 10px;
+        margin-bottom: 10px;
+    }
+}
+
 .table {
     width: 100%;
     border-collapse: collapse;
