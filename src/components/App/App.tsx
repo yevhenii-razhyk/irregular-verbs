@@ -31,7 +31,7 @@ const App: React.FC = () => {
         } else {
             return verbs;
         }
-    }, [searchQuerry, sortedList, selectedSearch])
+    }, [searchQuerry, sortedList, selectedSearch, verbs])
 
     return (
         <div className="app">
