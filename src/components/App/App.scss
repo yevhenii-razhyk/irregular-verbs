@@ -1,9 +1,20 @@
-.App {
+.app {
     &__search {
         display: grid;
         grid-template-columns: auto 200px;
         grid-column-gap: 10px;
         margin-bottom: 10px;
+    }
+
+    &__wrapper {
+        overflow: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .app__search {
+        grid-template-columns: auto;
+        grid-row-gap: 10px;
     }
 }
 
